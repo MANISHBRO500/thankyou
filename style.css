@@ -31,3 +31,11 @@ h1 {
   font-size: clamp(14px, 4vw, 18px);
   color: #777;
 }
+#text {
+  font-size: clamp(15px, 4vw, 18px);
+  line-height: 1.7;
+  color: #333;
+  max-width: 700px;
+  margin: auto;
+}
+
